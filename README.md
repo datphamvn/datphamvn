@@ -1,4 +1,4 @@
-# Welcome to my GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Welcome to my GitHub <img src="https://i.imgur.com/voKiR69.gif" alt="hi">
 
 - 👋 I’m @phamvutuandat
 - 👀 I’m interested in Machine Learning, Blockchain, and Software Engineering
